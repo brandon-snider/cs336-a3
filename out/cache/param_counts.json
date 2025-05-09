@@ -1,0 +1,2578 @@
+{
+    "d64_l2": {
+        "d_model": 64,
+        "num_layers": 2,
+        "total_params": 4228032,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2147264
+    },
+    "d64_l3": {
+        "d_model": 64,
+        "num_layers": 3,
+        "total_params": 4277632,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2196864
+    },
+    "d64_l4": {
+        "d_model": 64,
+        "num_layers": 4,
+        "total_params": 4327232,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2246464
+    },
+    "d64_l5": {
+        "d_model": 64,
+        "num_layers": 5,
+        "total_params": 4376832,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2296064
+    },
+    "d64_l6": {
+        "d_model": 64,
+        "num_layers": 6,
+        "total_params": 4426432,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2345664
+    },
+    "d64_l7": {
+        "d_model": 64,
+        "num_layers": 7,
+        "total_params": 4476032,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2395264
+    },
+    "d64_l8": {
+        "d_model": 64,
+        "num_layers": 8,
+        "total_params": 4525632,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2444864
+    },
+    "d64_l9": {
+        "d_model": 64,
+        "num_layers": 9,
+        "total_params": 4575232,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2494464
+    },
+    "d64_l10": {
+        "d_model": 64,
+        "num_layers": 10,
+        "total_params": 4624832,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2544064
+    },
+    "d64_l11": {
+        "d_model": 64,
+        "num_layers": 11,
+        "total_params": 4674432,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2593664
+    },
+    "d64_l12": {
+        "d_model": 64,
+        "num_layers": 12,
+        "total_params": 4724032,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2643264
+    },
+    "d64_l13": {
+        "d_model": 64,
+        "num_layers": 13,
+        "total_params": 4773632,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2692864
+    },
+    "d64_l14": {
+        "d_model": 64,
+        "num_layers": 14,
+        "total_params": 4823232,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2742464
+    },
+    "d64_l15": {
+        "d_model": 64,
+        "num_layers": 15,
+        "total_params": 4872832,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2792064
+    },
+    "d64_l16": {
+        "d_model": 64,
+        "num_layers": 16,
+        "total_params": 4922432,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2841664
+    },
+    "d64_l17": {
+        "d_model": 64,
+        "num_layers": 17,
+        "total_params": 4972032,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2891264
+    },
+    "d64_l18": {
+        "d_model": 64,
+        "num_layers": 18,
+        "total_params": 5021632,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2940864
+    },
+    "d64_l19": {
+        "d_model": 64,
+        "num_layers": 19,
+        "total_params": 5071232,
+        "embedding_params": 2080768,
+        "non_embedding_params": 2990464
+    },
+    "d64_l20": {
+        "d_model": 64,
+        "num_layers": 20,
+        "total_params": 5120832,
+        "embedding_params": 2080768,
+        "non_embedding_params": 3040064
+    },
+    "d64_l21": {
+        "d_model": 64,
+        "num_layers": 21,
+        "total_params": 5170432,
+        "embedding_params": 2080768,
+        "non_embedding_params": 3089664
+    },
+    "d64_l22": {
+        "d_model": 64,
+        "num_layers": 22,
+        "total_params": 5220032,
+        "embedding_params": 2080768,
+        "non_embedding_params": 3139264
+    },
+    "d64_l23": {
+        "d_model": 64,
+        "num_layers": 23,
+        "total_params": 5269632,
+        "embedding_params": 2080768,
+        "non_embedding_params": 3188864
+    },
+    "d64_l24": {
+        "d_model": 64,
+        "num_layers": 24,
+        "total_params": 5319232,
+        "embedding_params": 2080768,
+        "non_embedding_params": 3238464
+    },
+    "d128_l2": {
+        "d_model": 128,
+        "num_layers": 2,
+        "total_params": 8652672,
+        "embedding_params": 4161536,
+        "non_embedding_params": 4491136
+    },
+    "d128_l3": {
+        "d_model": 128,
+        "num_layers": 3,
+        "total_params": 8850176,
+        "embedding_params": 4161536,
+        "non_embedding_params": 4688640
+    },
+    "d128_l4": {
+        "d_model": 128,
+        "num_layers": 4,
+        "total_params": 9047680,
+        "embedding_params": 4161536,
+        "non_embedding_params": 4886144
+    },
+    "d128_l5": {
+        "d_model": 128,
+        "num_layers": 5,
+        "total_params": 9245184,
+        "embedding_params": 4161536,
+        "non_embedding_params": 5083648
+    },
+    "d128_l6": {
+        "d_model": 128,
+        "num_layers": 6,
+        "total_params": 9442688,
+        "embedding_params": 4161536,
+        "non_embedding_params": 5281152
+    },
+    "d128_l7": {
+        "d_model": 128,
+        "num_layers": 7,
+        "total_params": 9640192,
+        "embedding_params": 4161536,
+        "non_embedding_params": 5478656
+    },
+    "d128_l8": {
+        "d_model": 128,
+        "num_layers": 8,
+        "total_params": 9837696,
+        "embedding_params": 4161536,
+        "non_embedding_params": 5676160
+    },
+    "d128_l9": {
+        "d_model": 128,
+        "num_layers": 9,
+        "total_params": 10035200,
+        "embedding_params": 4161536,
+        "non_embedding_params": 5873664
+    },
+    "d128_l10": {
+        "d_model": 128,
+        "num_layers": 10,
+        "total_params": 10232704,
+        "embedding_params": 4161536,
+        "non_embedding_params": 6071168
+    },
+    "d128_l11": {
+        "d_model": 128,
+        "num_layers": 11,
+        "total_params": 10430208,
+        "embedding_params": 4161536,
+        "non_embedding_params": 6268672
+    },
+    "d128_l12": {
+        "d_model": 128,
+        "num_layers": 12,
+        "total_params": 10627712,
+        "embedding_params": 4161536,
+        "non_embedding_params": 6466176
+    },
+    "d128_l13": {
+        "d_model": 128,
+        "num_layers": 13,
+        "total_params": 10825216,
+        "embedding_params": 4161536,
+        "non_embedding_params": 6663680
+    },
+    "d128_l14": {
+        "d_model": 128,
+        "num_layers": 14,
+        "total_params": 11022720,
+        "embedding_params": 4161536,
+        "non_embedding_params": 6861184
+    },
+    "d128_l15": {
+        "d_model": 128,
+        "num_layers": 15,
+        "total_params": 11220224,
+        "embedding_params": 4161536,
+        "non_embedding_params": 7058688
+    },
+    "d128_l16": {
+        "d_model": 128,
+        "num_layers": 16,
+        "total_params": 11417728,
+        "embedding_params": 4161536,
+        "non_embedding_params": 7256192
+    },
+    "d128_l17": {
+        "d_model": 128,
+        "num_layers": 17,
+        "total_params": 11615232,
+        "embedding_params": 4161536,
+        "non_embedding_params": 7453696
+    },
+    "d128_l18": {
+        "d_model": 128,
+        "num_layers": 18,
+        "total_params": 11812736,
+        "embedding_params": 4161536,
+        "non_embedding_params": 7651200
+    },
+    "d128_l19": {
+        "d_model": 128,
+        "num_layers": 19,
+        "total_params": 12010240,
+        "embedding_params": 4161536,
+        "non_embedding_params": 7848704
+    },
+    "d128_l20": {
+        "d_model": 128,
+        "num_layers": 20,
+        "total_params": 12207744,
+        "embedding_params": 4161536,
+        "non_embedding_params": 8046208
+    },
+    "d128_l21": {
+        "d_model": 128,
+        "num_layers": 21,
+        "total_params": 12405248,
+        "embedding_params": 4161536,
+        "non_embedding_params": 8243712
+    },
+    "d128_l22": {
+        "d_model": 128,
+        "num_layers": 22,
+        "total_params": 12602752,
+        "embedding_params": 4161536,
+        "non_embedding_params": 8441216
+    },
+    "d128_l23": {
+        "d_model": 128,
+        "num_layers": 23,
+        "total_params": 12800256,
+        "embedding_params": 4161536,
+        "non_embedding_params": 8638720
+    },
+    "d128_l24": {
+        "d_model": 128,
+        "num_layers": 24,
+        "total_params": 12997760,
+        "embedding_params": 4161536,
+        "non_embedding_params": 8836224
+    },
+    "d192_l2": {
+        "d_model": 192,
+        "num_layers": 2,
+        "total_params": 13273920,
+        "embedding_params": 6242304,
+        "non_embedding_params": 7031616
+    },
+    "d192_l3": {
+        "d_model": 192,
+        "num_layers": 3,
+        "total_params": 13717632,
+        "embedding_params": 6242304,
+        "non_embedding_params": 7475328
+    },
+    "d192_l4": {
+        "d_model": 192,
+        "num_layers": 4,
+        "total_params": 14161344,
+        "embedding_params": 6242304,
+        "non_embedding_params": 7919040
+    },
+    "d192_l5": {
+        "d_model": 192,
+        "num_layers": 5,
+        "total_params": 14605056,
+        "embedding_params": 6242304,
+        "non_embedding_params": 8362752
+    },
+    "d192_l6": {
+        "d_model": 192,
+        "num_layers": 6,
+        "total_params": 15048768,
+        "embedding_params": 6242304,
+        "non_embedding_params": 8806464
+    },
+    "d192_l7": {
+        "d_model": 192,
+        "num_layers": 7,
+        "total_params": 15492480,
+        "embedding_params": 6242304,
+        "non_embedding_params": 9250176
+    },
+    "d192_l8": {
+        "d_model": 192,
+        "num_layers": 8,
+        "total_params": 15936192,
+        "embedding_params": 6242304,
+        "non_embedding_params": 9693888
+    },
+    "d192_l9": {
+        "d_model": 192,
+        "num_layers": 9,
+        "total_params": 16379904,
+        "embedding_params": 6242304,
+        "non_embedding_params": 10137600
+    },
+    "d192_l10": {
+        "d_model": 192,
+        "num_layers": 10,
+        "total_params": 16823616,
+        "embedding_params": 6242304,
+        "non_embedding_params": 10581312
+    },
+    "d192_l11": {
+        "d_model": 192,
+        "num_layers": 11,
+        "total_params": 17267328,
+        "embedding_params": 6242304,
+        "non_embedding_params": 11025024
+    },
+    "d192_l12": {
+        "d_model": 192,
+        "num_layers": 12,
+        "total_params": 17711040,
+        "embedding_params": 6242304,
+        "non_embedding_params": 11468736
+    },
+    "d192_l13": {
+        "d_model": 192,
+        "num_layers": 13,
+        "total_params": 18154752,
+        "embedding_params": 6242304,
+        "non_embedding_params": 11912448
+    },
+    "d192_l14": {
+        "d_model": 192,
+        "num_layers": 14,
+        "total_params": 18598464,
+        "embedding_params": 6242304,
+        "non_embedding_params": 12356160
+    },
+    "d192_l15": {
+        "d_model": 192,
+        "num_layers": 15,
+        "total_params": 19042176,
+        "embedding_params": 6242304,
+        "non_embedding_params": 12799872
+    },
+    "d192_l16": {
+        "d_model": 192,
+        "num_layers": 16,
+        "total_params": 19485888,
+        "embedding_params": 6242304,
+        "non_embedding_params": 13243584
+    },
+    "d192_l17": {
+        "d_model": 192,
+        "num_layers": 17,
+        "total_params": 19929600,
+        "embedding_params": 6242304,
+        "non_embedding_params": 13687296
+    },
+    "d192_l18": {
+        "d_model": 192,
+        "num_layers": 18,
+        "total_params": 20373312,
+        "embedding_params": 6242304,
+        "non_embedding_params": 14131008
+    },
+    "d192_l19": {
+        "d_model": 192,
+        "num_layers": 19,
+        "total_params": 20817024,
+        "embedding_params": 6242304,
+        "non_embedding_params": 14574720
+    },
+    "d192_l20": {
+        "d_model": 192,
+        "num_layers": 20,
+        "total_params": 21260736,
+        "embedding_params": 6242304,
+        "non_embedding_params": 15018432
+    },
+    "d192_l21": {
+        "d_model": 192,
+        "num_layers": 21,
+        "total_params": 21704448,
+        "embedding_params": 6242304,
+        "non_embedding_params": 15462144
+    },
+    "d192_l22": {
+        "d_model": 192,
+        "num_layers": 22,
+        "total_params": 22148160,
+        "embedding_params": 6242304,
+        "non_embedding_params": 15905856
+    },
+    "d192_l23": {
+        "d_model": 192,
+        "num_layers": 23,
+        "total_params": 22591872,
+        "embedding_params": 6242304,
+        "non_embedding_params": 16349568
+    },
+    "d192_l24": {
+        "d_model": 192,
+        "num_layers": 24,
+        "total_params": 23035584,
+        "embedding_params": 6242304,
+        "non_embedding_params": 16793280
+    },
+    "d256_l2": {
+        "d_model": 256,
+        "num_layers": 2,
+        "total_params": 18091776,
+        "embedding_params": 8323072,
+        "non_embedding_params": 9768704
+    },
+    "d256_l3": {
+        "d_model": 256,
+        "num_layers": 3,
+        "total_params": 18880000,
+        "embedding_params": 8323072,
+        "non_embedding_params": 10556928
+    },
+    "d256_l4": {
+        "d_model": 256,
+        "num_layers": 4,
+        "total_params": 19668224,
+        "embedding_params": 8323072,
+        "non_embedding_params": 11345152
+    },
+    "d256_l5": {
+        "d_model": 256,
+        "num_layers": 5,
+        "total_params": 20456448,
+        "embedding_params": 8323072,
+        "non_embedding_params": 12133376
+    },
+    "d256_l6": {
+        "d_model": 256,
+        "num_layers": 6,
+        "total_params": 21244672,
+        "embedding_params": 8323072,
+        "non_embedding_params": 12921600
+    },
+    "d256_l7": {
+        "d_model": 256,
+        "num_layers": 7,
+        "total_params": 22032896,
+        "embedding_params": 8323072,
+        "non_embedding_params": 13709824
+    },
+    "d256_l8": {
+        "d_model": 256,
+        "num_layers": 8,
+        "total_params": 22821120,
+        "embedding_params": 8323072,
+        "non_embedding_params": 14498048
+    },
+    "d256_l9": {
+        "d_model": 256,
+        "num_layers": 9,
+        "total_params": 23609344,
+        "embedding_params": 8323072,
+        "non_embedding_params": 15286272
+    },
+    "d256_l10": {
+        "d_model": 256,
+        "num_layers": 10,
+        "total_params": 24397568,
+        "embedding_params": 8323072,
+        "non_embedding_params": 16074496
+    },
+    "d256_l11": {
+        "d_model": 256,
+        "num_layers": 11,
+        "total_params": 25185792,
+        "embedding_params": 8323072,
+        "non_embedding_params": 16862720
+    },
+    "d256_l12": {
+        "d_model": 256,
+        "num_layers": 12,
+        "total_params": 25974016,
+        "embedding_params": 8323072,
+        "non_embedding_params": 17650944
+    },
+    "d256_l13": {
+        "d_model": 256,
+        "num_layers": 13,
+        "total_params": 26762240,
+        "embedding_params": 8323072,
+        "non_embedding_params": 18439168
+    },
+    "d256_l14": {
+        "d_model": 256,
+        "num_layers": 14,
+        "total_params": 27550464,
+        "embedding_params": 8323072,
+        "non_embedding_params": 19227392
+    },
+    "d256_l15": {
+        "d_model": 256,
+        "num_layers": 15,
+        "total_params": 28338688,
+        "embedding_params": 8323072,
+        "non_embedding_params": 20015616
+    },
+    "d256_l16": {
+        "d_model": 256,
+        "num_layers": 16,
+        "total_params": 29126912,
+        "embedding_params": 8323072,
+        "non_embedding_params": 20803840
+    },
+    "d256_l17": {
+        "d_model": 256,
+        "num_layers": 17,
+        "total_params": 29915136,
+        "embedding_params": 8323072,
+        "non_embedding_params": 21592064
+    },
+    "d256_l18": {
+        "d_model": 256,
+        "num_layers": 18,
+        "total_params": 30703360,
+        "embedding_params": 8323072,
+        "non_embedding_params": 22380288
+    },
+    "d256_l19": {
+        "d_model": 256,
+        "num_layers": 19,
+        "total_params": 31491584,
+        "embedding_params": 8323072,
+        "non_embedding_params": 23168512
+    },
+    "d256_l20": {
+        "d_model": 256,
+        "num_layers": 20,
+        "total_params": 32279808,
+        "embedding_params": 8323072,
+        "non_embedding_params": 23956736
+    },
+    "d256_l21": {
+        "d_model": 256,
+        "num_layers": 21,
+        "total_params": 33068032,
+        "embedding_params": 8323072,
+        "non_embedding_params": 24744960
+    },
+    "d256_l22": {
+        "d_model": 256,
+        "num_layers": 22,
+        "total_params": 33856256,
+        "embedding_params": 8323072,
+        "non_embedding_params": 25533184
+    },
+    "d256_l23": {
+        "d_model": 256,
+        "num_layers": 23,
+        "total_params": 34644480,
+        "embedding_params": 8323072,
+        "non_embedding_params": 26321408
+    },
+    "d256_l24": {
+        "d_model": 256,
+        "num_layers": 24,
+        "total_params": 35432704,
+        "embedding_params": 8323072,
+        "non_embedding_params": 27109632
+    },
+    "d320_l2": {
+        "d_model": 320,
+        "num_layers": 2,
+        "total_params": 23106240,
+        "embedding_params": 10403840,
+        "non_embedding_params": 12702400
+    },
+    "d320_l3": {
+        "d_model": 320,
+        "num_layers": 3,
+        "total_params": 24337280,
+        "embedding_params": 10403840,
+        "non_embedding_params": 13933440
+    },
+    "d320_l4": {
+        "d_model": 320,
+        "num_layers": 4,
+        "total_params": 25568320,
+        "embedding_params": 10403840,
+        "non_embedding_params": 15164480
+    },
+    "d320_l5": {
+        "d_model": 320,
+        "num_layers": 5,
+        "total_params": 26799360,
+        "embedding_params": 10403840,
+        "non_embedding_params": 16395520
+    },
+    "d320_l6": {
+        "d_model": 320,
+        "num_layers": 6,
+        "total_params": 28030400,
+        "embedding_params": 10403840,
+        "non_embedding_params": 17626560
+    },
+    "d320_l7": {
+        "d_model": 320,
+        "num_layers": 7,
+        "total_params": 29261440,
+        "embedding_params": 10403840,
+        "non_embedding_params": 18857600
+    },
+    "d320_l8": {
+        "d_model": 320,
+        "num_layers": 8,
+        "total_params": 30492480,
+        "embedding_params": 10403840,
+        "non_embedding_params": 20088640
+    },
+    "d320_l9": {
+        "d_model": 320,
+        "num_layers": 9,
+        "total_params": 31723520,
+        "embedding_params": 10403840,
+        "non_embedding_params": 21319680
+    },
+    "d320_l10": {
+        "d_model": 320,
+        "num_layers": 10,
+        "total_params": 32954560,
+        "embedding_params": 10403840,
+        "non_embedding_params": 22550720
+    },
+    "d320_l11": {
+        "d_model": 320,
+        "num_layers": 11,
+        "total_params": 34185600,
+        "embedding_params": 10403840,
+        "non_embedding_params": 23781760
+    },
+    "d320_l12": {
+        "d_model": 320,
+        "num_layers": 12,
+        "total_params": 35416640,
+        "embedding_params": 10403840,
+        "non_embedding_params": 25012800
+    },
+    "d320_l13": {
+        "d_model": 320,
+        "num_layers": 13,
+        "total_params": 36647680,
+        "embedding_params": 10403840,
+        "non_embedding_params": 26243840
+    },
+    "d320_l14": {
+        "d_model": 320,
+        "num_layers": 14,
+        "total_params": 37878720,
+        "embedding_params": 10403840,
+        "non_embedding_params": 27474880
+    },
+    "d320_l15": {
+        "d_model": 320,
+        "num_layers": 15,
+        "total_params": 39109760,
+        "embedding_params": 10403840,
+        "non_embedding_params": 28705920
+    },
+    "d320_l16": {
+        "d_model": 320,
+        "num_layers": 16,
+        "total_params": 40340800,
+        "embedding_params": 10403840,
+        "non_embedding_params": 29936960
+    },
+    "d320_l17": {
+        "d_model": 320,
+        "num_layers": 17,
+        "total_params": 41571840,
+        "embedding_params": 10403840,
+        "non_embedding_params": 31168000
+    },
+    "d320_l18": {
+        "d_model": 320,
+        "num_layers": 18,
+        "total_params": 42802880,
+        "embedding_params": 10403840,
+        "non_embedding_params": 32399040
+    },
+    "d320_l19": {
+        "d_model": 320,
+        "num_layers": 19,
+        "total_params": 44033920,
+        "embedding_params": 10403840,
+        "non_embedding_params": 33630080
+    },
+    "d320_l20": {
+        "d_model": 320,
+        "num_layers": 20,
+        "total_params": 45264960,
+        "embedding_params": 10403840,
+        "non_embedding_params": 34861120
+    },
+    "d320_l21": {
+        "d_model": 320,
+        "num_layers": 21,
+        "total_params": 46496000,
+        "embedding_params": 10403840,
+        "non_embedding_params": 36092160
+    },
+    "d320_l22": {
+        "d_model": 320,
+        "num_layers": 22,
+        "total_params": 47727040,
+        "embedding_params": 10403840,
+        "non_embedding_params": 37323200
+    },
+    "d320_l23": {
+        "d_model": 320,
+        "num_layers": 23,
+        "total_params": 48958080,
+        "embedding_params": 10403840,
+        "non_embedding_params": 38554240
+    },
+    "d320_l24": {
+        "d_model": 320,
+        "num_layers": 24,
+        "total_params": 50189120,
+        "embedding_params": 10403840,
+        "non_embedding_params": 39785280
+    },
+    "d384_l2": {
+        "d_model": 384,
+        "num_layers": 2,
+        "total_params": 28317312,
+        "embedding_params": 12484608,
+        "non_embedding_params": 15832704
+    },
+    "d384_l3": {
+        "d_model": 384,
+        "num_layers": 3,
+        "total_params": 30089472,
+        "embedding_params": 12484608,
+        "non_embedding_params": 17604864
+    },
+    "d384_l4": {
+        "d_model": 384,
+        "num_layers": 4,
+        "total_params": 31861632,
+        "embedding_params": 12484608,
+        "non_embedding_params": 19377024
+    },
+    "d384_l5": {
+        "d_model": 384,
+        "num_layers": 5,
+        "total_params": 33633792,
+        "embedding_params": 12484608,
+        "non_embedding_params": 21149184
+    },
+    "d384_l6": {
+        "d_model": 384,
+        "num_layers": 6,
+        "total_params": 35405952,
+        "embedding_params": 12484608,
+        "non_embedding_params": 22921344
+    },
+    "d384_l7": {
+        "d_model": 384,
+        "num_layers": 7,
+        "total_params": 37178112,
+        "embedding_params": 12484608,
+        "non_embedding_params": 24693504
+    },
+    "d384_l8": {
+        "d_model": 384,
+        "num_layers": 8,
+        "total_params": 38950272,
+        "embedding_params": 12484608,
+        "non_embedding_params": 26465664
+    },
+    "d384_l9": {
+        "d_model": 384,
+        "num_layers": 9,
+        "total_params": 40722432,
+        "embedding_params": 12484608,
+        "non_embedding_params": 28237824
+    },
+    "d384_l10": {
+        "d_model": 384,
+        "num_layers": 10,
+        "total_params": 42494592,
+        "embedding_params": 12484608,
+        "non_embedding_params": 30009984
+    },
+    "d384_l11": {
+        "d_model": 384,
+        "num_layers": 11,
+        "total_params": 44266752,
+        "embedding_params": 12484608,
+        "non_embedding_params": 31782144
+    },
+    "d384_l12": {
+        "d_model": 384,
+        "num_layers": 12,
+        "total_params": 46038912,
+        "embedding_params": 12484608,
+        "non_embedding_params": 33554304
+    },
+    "d384_l13": {
+        "d_model": 384,
+        "num_layers": 13,
+        "total_params": 47811072,
+        "embedding_params": 12484608,
+        "non_embedding_params": 35326464
+    },
+    "d384_l14": {
+        "d_model": 384,
+        "num_layers": 14,
+        "total_params": 49583232,
+        "embedding_params": 12484608,
+        "non_embedding_params": 37098624
+    },
+    "d384_l15": {
+        "d_model": 384,
+        "num_layers": 15,
+        "total_params": 51355392,
+        "embedding_params": 12484608,
+        "non_embedding_params": 38870784
+    },
+    "d384_l16": {
+        "d_model": 384,
+        "num_layers": 16,
+        "total_params": 53127552,
+        "embedding_params": 12484608,
+        "non_embedding_params": 40642944
+    },
+    "d384_l17": {
+        "d_model": 384,
+        "num_layers": 17,
+        "total_params": 54899712,
+        "embedding_params": 12484608,
+        "non_embedding_params": 42415104
+    },
+    "d384_l18": {
+        "d_model": 384,
+        "num_layers": 18,
+        "total_params": 56671872,
+        "embedding_params": 12484608,
+        "non_embedding_params": 44187264
+    },
+    "d384_l19": {
+        "d_model": 384,
+        "num_layers": 19,
+        "total_params": 58444032,
+        "embedding_params": 12484608,
+        "non_embedding_params": 45959424
+    },
+    "d384_l20": {
+        "d_model": 384,
+        "num_layers": 20,
+        "total_params": 60216192,
+        "embedding_params": 12484608,
+        "non_embedding_params": 47731584
+    },
+    "d384_l21": {
+        "d_model": 384,
+        "num_layers": 21,
+        "total_params": 61988352,
+        "embedding_params": 12484608,
+        "non_embedding_params": 49503744
+    },
+    "d384_l22": {
+        "d_model": 384,
+        "num_layers": 22,
+        "total_params": 63760512,
+        "embedding_params": 12484608,
+        "non_embedding_params": 51275904
+    },
+    "d384_l23": {
+        "d_model": 384,
+        "num_layers": 23,
+        "total_params": 65532672,
+        "embedding_params": 12484608,
+        "non_embedding_params": 53048064
+    },
+    "d384_l24": {
+        "d_model": 384,
+        "num_layers": 24,
+        "total_params": 67304832,
+        "embedding_params": 12484608,
+        "non_embedding_params": 54820224
+    },
+    "d448_l2": {
+        "d_model": 448,
+        "num_layers": 2,
+        "total_params": 33724992,
+        "embedding_params": 14565376,
+        "non_embedding_params": 19159616
+    },
+    "d448_l3": {
+        "d_model": 448,
+        "num_layers": 3,
+        "total_params": 36136576,
+        "embedding_params": 14565376,
+        "non_embedding_params": 21571200
+    },
+    "d448_l4": {
+        "d_model": 448,
+        "num_layers": 4,
+        "total_params": 38548160,
+        "embedding_params": 14565376,
+        "non_embedding_params": 23982784
+    },
+    "d448_l5": {
+        "d_model": 448,
+        "num_layers": 5,
+        "total_params": 40959744,
+        "embedding_params": 14565376,
+        "non_embedding_params": 26394368
+    },
+    "d448_l6": {
+        "d_model": 448,
+        "num_layers": 6,
+        "total_params": 43371328,
+        "embedding_params": 14565376,
+        "non_embedding_params": 28805952
+    },
+    "d448_l7": {
+        "d_model": 448,
+        "num_layers": 7,
+        "total_params": 45782912,
+        "embedding_params": 14565376,
+        "non_embedding_params": 31217536
+    },
+    "d448_l8": {
+        "d_model": 448,
+        "num_layers": 8,
+        "total_params": 48194496,
+        "embedding_params": 14565376,
+        "non_embedding_params": 33629120
+    },
+    "d448_l9": {
+        "d_model": 448,
+        "num_layers": 9,
+        "total_params": 50606080,
+        "embedding_params": 14565376,
+        "non_embedding_params": 36040704
+    },
+    "d448_l10": {
+        "d_model": 448,
+        "num_layers": 10,
+        "total_params": 53017664,
+        "embedding_params": 14565376,
+        "non_embedding_params": 38452288
+    },
+    "d448_l11": {
+        "d_model": 448,
+        "num_layers": 11,
+        "total_params": 55429248,
+        "embedding_params": 14565376,
+        "non_embedding_params": 40863872
+    },
+    "d448_l12": {
+        "d_model": 448,
+        "num_layers": 12,
+        "total_params": 57840832,
+        "embedding_params": 14565376,
+        "non_embedding_params": 43275456
+    },
+    "d448_l13": {
+        "d_model": 448,
+        "num_layers": 13,
+        "total_params": 60252416,
+        "embedding_params": 14565376,
+        "non_embedding_params": 45687040
+    },
+    "d448_l14": {
+        "d_model": 448,
+        "num_layers": 14,
+        "total_params": 62664000,
+        "embedding_params": 14565376,
+        "non_embedding_params": 48098624
+    },
+    "d448_l15": {
+        "d_model": 448,
+        "num_layers": 15,
+        "total_params": 65075584,
+        "embedding_params": 14565376,
+        "non_embedding_params": 50510208
+    },
+    "d448_l16": {
+        "d_model": 448,
+        "num_layers": 16,
+        "total_params": 67487168,
+        "embedding_params": 14565376,
+        "non_embedding_params": 52921792
+    },
+    "d448_l17": {
+        "d_model": 448,
+        "num_layers": 17,
+        "total_params": 69898752,
+        "embedding_params": 14565376,
+        "non_embedding_params": 55333376
+    },
+    "d448_l18": {
+        "d_model": 448,
+        "num_layers": 18,
+        "total_params": 72310336,
+        "embedding_params": 14565376,
+        "non_embedding_params": 57744960
+    },
+    "d448_l19": {
+        "d_model": 448,
+        "num_layers": 19,
+        "total_params": 74721920,
+        "embedding_params": 14565376,
+        "non_embedding_params": 60156544
+    },
+    "d448_l20": {
+        "d_model": 448,
+        "num_layers": 20,
+        "total_params": 77133504,
+        "embedding_params": 14565376,
+        "non_embedding_params": 62568128
+    },
+    "d448_l21": {
+        "d_model": 448,
+        "num_layers": 21,
+        "total_params": 79545088,
+        "embedding_params": 14565376,
+        "non_embedding_params": 64979712
+    },
+    "d448_l22": {
+        "d_model": 448,
+        "num_layers": 22,
+        "total_params": 81956672,
+        "embedding_params": 14565376,
+        "non_embedding_params": 67391296
+    },
+    "d448_l23": {
+        "d_model": 448,
+        "num_layers": 23,
+        "total_params": 84368256,
+        "embedding_params": 14565376,
+        "non_embedding_params": 69802880
+    },
+    "d448_l24": {
+        "d_model": 448,
+        "num_layers": 24,
+        "total_params": 86779840,
+        "embedding_params": 14565376,
+        "non_embedding_params": 72214464
+    },
+    "d512_l2": {
+        "d_model": 512,
+        "num_layers": 2,
+        "total_params": 39329280,
+        "embedding_params": 16646144,
+        "non_embedding_params": 22683136
+    },
+    "d512_l3": {
+        "d_model": 512,
+        "num_layers": 3,
+        "total_params": 42478592,
+        "embedding_params": 16646144,
+        "non_embedding_params": 25832448
+    },
+    "d512_l4": {
+        "d_model": 512,
+        "num_layers": 4,
+        "total_params": 45627904,
+        "embedding_params": 16646144,
+        "non_embedding_params": 28981760
+    },
+    "d512_l5": {
+        "d_model": 512,
+        "num_layers": 5,
+        "total_params": 48777216,
+        "embedding_params": 16646144,
+        "non_embedding_params": 32131072
+    },
+    "d512_l6": {
+        "d_model": 512,
+        "num_layers": 6,
+        "total_params": 51926528,
+        "embedding_params": 16646144,
+        "non_embedding_params": 35280384
+    },
+    "d512_l7": {
+        "d_model": 512,
+        "num_layers": 7,
+        "total_params": 55075840,
+        "embedding_params": 16646144,
+        "non_embedding_params": 38429696
+    },
+    "d512_l8": {
+        "d_model": 512,
+        "num_layers": 8,
+        "total_params": 58225152,
+        "embedding_params": 16646144,
+        "non_embedding_params": 41579008
+    },
+    "d512_l9": {
+        "d_model": 512,
+        "num_layers": 9,
+        "total_params": 61374464,
+        "embedding_params": 16646144,
+        "non_embedding_params": 44728320
+    },
+    "d512_l10": {
+        "d_model": 512,
+        "num_layers": 10,
+        "total_params": 64523776,
+        "embedding_params": 16646144,
+        "non_embedding_params": 47877632
+    },
+    "d512_l11": {
+        "d_model": 512,
+        "num_layers": 11,
+        "total_params": 67673088,
+        "embedding_params": 16646144,
+        "non_embedding_params": 51026944
+    },
+    "d512_l12": {
+        "d_model": 512,
+        "num_layers": 12,
+        "total_params": 70822400,
+        "embedding_params": 16646144,
+        "non_embedding_params": 54176256
+    },
+    "d512_l13": {
+        "d_model": 512,
+        "num_layers": 13,
+        "total_params": 73971712,
+        "embedding_params": 16646144,
+        "non_embedding_params": 57325568
+    },
+    "d512_l14": {
+        "d_model": 512,
+        "num_layers": 14,
+        "total_params": 77121024,
+        "embedding_params": 16646144,
+        "non_embedding_params": 60474880
+    },
+    "d512_l15": {
+        "d_model": 512,
+        "num_layers": 15,
+        "total_params": 80270336,
+        "embedding_params": 16646144,
+        "non_embedding_params": 63624192
+    },
+    "d512_l16": {
+        "d_model": 512,
+        "num_layers": 16,
+        "total_params": 83419648,
+        "embedding_params": 16646144,
+        "non_embedding_params": 66773504
+    },
+    "d512_l17": {
+        "d_model": 512,
+        "num_layers": 17,
+        "total_params": 86568960,
+        "embedding_params": 16646144,
+        "non_embedding_params": 69922816
+    },
+    "d512_l18": {
+        "d_model": 512,
+        "num_layers": 18,
+        "total_params": 89718272,
+        "embedding_params": 16646144,
+        "non_embedding_params": 73072128
+    },
+    "d512_l19": {
+        "d_model": 512,
+        "num_layers": 19,
+        "total_params": 92867584,
+        "embedding_params": 16646144,
+        "non_embedding_params": 76221440
+    },
+    "d512_l20": {
+        "d_model": 512,
+        "num_layers": 20,
+        "total_params": 96016896,
+        "embedding_params": 16646144,
+        "non_embedding_params": 79370752
+    },
+    "d512_l21": {
+        "d_model": 512,
+        "num_layers": 21,
+        "total_params": 99166208,
+        "embedding_params": 16646144,
+        "non_embedding_params": 82520064
+    },
+    "d512_l22": {
+        "d_model": 512,
+        "num_layers": 22,
+        "total_params": 102315520,
+        "embedding_params": 16646144,
+        "non_embedding_params": 85669376
+    },
+    "d512_l23": {
+        "d_model": 512,
+        "num_layers": 23,
+        "total_params": 105464832,
+        "embedding_params": 16646144,
+        "non_embedding_params": 88818688
+    },
+    "d512_l24": {
+        "d_model": 512,
+        "num_layers": 24,
+        "total_params": 108614144,
+        "embedding_params": 16646144,
+        "non_embedding_params": 91968000
+    },
+    "d576_l2": {
+        "d_model": 576,
+        "num_layers": 2,
+        "total_params": 45130176,
+        "embedding_params": 18726912,
+        "non_embedding_params": 26403264
+    },
+    "d576_l3": {
+        "d_model": 576,
+        "num_layers": 3,
+        "total_params": 49115520,
+        "embedding_params": 18726912,
+        "non_embedding_params": 30388608
+    },
+    "d576_l4": {
+        "d_model": 576,
+        "num_layers": 4,
+        "total_params": 53100864,
+        "embedding_params": 18726912,
+        "non_embedding_params": 34373952
+    },
+    "d576_l5": {
+        "d_model": 576,
+        "num_layers": 5,
+        "total_params": 57086208,
+        "embedding_params": 18726912,
+        "non_embedding_params": 38359296
+    },
+    "d576_l6": {
+        "d_model": 576,
+        "num_layers": 6,
+        "total_params": 61071552,
+        "embedding_params": 18726912,
+        "non_embedding_params": 42344640
+    },
+    "d576_l7": {
+        "d_model": 576,
+        "num_layers": 7,
+        "total_params": 65056896,
+        "embedding_params": 18726912,
+        "non_embedding_params": 46329984
+    },
+    "d576_l8": {
+        "d_model": 576,
+        "num_layers": 8,
+        "total_params": 69042240,
+        "embedding_params": 18726912,
+        "non_embedding_params": 50315328
+    },
+    "d576_l9": {
+        "d_model": 576,
+        "num_layers": 9,
+        "total_params": 73027584,
+        "embedding_params": 18726912,
+        "non_embedding_params": 54300672
+    },
+    "d576_l10": {
+        "d_model": 576,
+        "num_layers": 10,
+        "total_params": 77012928,
+        "embedding_params": 18726912,
+        "non_embedding_params": 58286016
+    },
+    "d576_l11": {
+        "d_model": 576,
+        "num_layers": 11,
+        "total_params": 80998272,
+        "embedding_params": 18726912,
+        "non_embedding_params": 62271360
+    },
+    "d576_l12": {
+        "d_model": 576,
+        "num_layers": 12,
+        "total_params": 84983616,
+        "embedding_params": 18726912,
+        "non_embedding_params": 66256704
+    },
+    "d576_l13": {
+        "d_model": 576,
+        "num_layers": 13,
+        "total_params": 88968960,
+        "embedding_params": 18726912,
+        "non_embedding_params": 70242048
+    },
+    "d576_l14": {
+        "d_model": 576,
+        "num_layers": 14,
+        "total_params": 92954304,
+        "embedding_params": 18726912,
+        "non_embedding_params": 74227392
+    },
+    "d576_l15": {
+        "d_model": 576,
+        "num_layers": 15,
+        "total_params": 96939648,
+        "embedding_params": 18726912,
+        "non_embedding_params": 78212736
+    },
+    "d576_l16": {
+        "d_model": 576,
+        "num_layers": 16,
+        "total_params": 100924992,
+        "embedding_params": 18726912,
+        "non_embedding_params": 82198080
+    },
+    "d576_l17": {
+        "d_model": 576,
+        "num_layers": 17,
+        "total_params": 104910336,
+        "embedding_params": 18726912,
+        "non_embedding_params": 86183424
+    },
+    "d576_l18": {
+        "d_model": 576,
+        "num_layers": 18,
+        "total_params": 108895680,
+        "embedding_params": 18726912,
+        "non_embedding_params": 90168768
+    },
+    "d576_l19": {
+        "d_model": 576,
+        "num_layers": 19,
+        "total_params": 112881024,
+        "embedding_params": 18726912,
+        "non_embedding_params": 94154112
+    },
+    "d576_l20": {
+        "d_model": 576,
+        "num_layers": 20,
+        "total_params": 116866368,
+        "embedding_params": 18726912,
+        "non_embedding_params": 98139456
+    },
+    "d576_l21": {
+        "d_model": 576,
+        "num_layers": 21,
+        "total_params": 120851712,
+        "embedding_params": 18726912,
+        "non_embedding_params": 102124800
+    },
+    "d576_l22": {
+        "d_model": 576,
+        "num_layers": 22,
+        "total_params": 124837056,
+        "embedding_params": 18726912,
+        "non_embedding_params": 106110144
+    },
+    "d576_l23": {
+        "d_model": 576,
+        "num_layers": 23,
+        "total_params": 128822400,
+        "embedding_params": 18726912,
+        "non_embedding_params": 110095488
+    },
+    "d576_l24": {
+        "d_model": 576,
+        "num_layers": 24,
+        "total_params": 132807744,
+        "embedding_params": 18726912,
+        "non_embedding_params": 114080832
+    },
+    "d640_l2": {
+        "d_model": 640,
+        "num_layers": 2,
+        "total_params": 51127680,
+        "embedding_params": 20807680,
+        "non_embedding_params": 30320000
+    },
+    "d640_l3": {
+        "d_model": 640,
+        "num_layers": 3,
+        "total_params": 56047360,
+        "embedding_params": 20807680,
+        "non_embedding_params": 35239680
+    },
+    "d640_l4": {
+        "d_model": 640,
+        "num_layers": 4,
+        "total_params": 60967040,
+        "embedding_params": 20807680,
+        "non_embedding_params": 40159360
+    },
+    "d640_l5": {
+        "d_model": 640,
+        "num_layers": 5,
+        "total_params": 65886720,
+        "embedding_params": 20807680,
+        "non_embedding_params": 45079040
+    },
+    "d640_l6": {
+        "d_model": 640,
+        "num_layers": 6,
+        "total_params": 70806400,
+        "embedding_params": 20807680,
+        "non_embedding_params": 49998720
+    },
+    "d640_l7": {
+        "d_model": 640,
+        "num_layers": 7,
+        "total_params": 75726080,
+        "embedding_params": 20807680,
+        "non_embedding_params": 54918400
+    },
+    "d640_l8": {
+        "d_model": 640,
+        "num_layers": 8,
+        "total_params": 80645760,
+        "embedding_params": 20807680,
+        "non_embedding_params": 59838080
+    },
+    "d640_l9": {
+        "d_model": 640,
+        "num_layers": 9,
+        "total_params": 85565440,
+        "embedding_params": 20807680,
+        "non_embedding_params": 64757760
+    },
+    "d640_l10": {
+        "d_model": 640,
+        "num_layers": 10,
+        "total_params": 90485120,
+        "embedding_params": 20807680,
+        "non_embedding_params": 69677440
+    },
+    "d640_l11": {
+        "d_model": 640,
+        "num_layers": 11,
+        "total_params": 95404800,
+        "embedding_params": 20807680,
+        "non_embedding_params": 74597120
+    },
+    "d640_l12": {
+        "d_model": 640,
+        "num_layers": 12,
+        "total_params": 100324480,
+        "embedding_params": 20807680,
+        "non_embedding_params": 79516800
+    },
+    "d640_l13": {
+        "d_model": 640,
+        "num_layers": 13,
+        "total_params": 105244160,
+        "embedding_params": 20807680,
+        "non_embedding_params": 84436480
+    },
+    "d640_l14": {
+        "d_model": 640,
+        "num_layers": 14,
+        "total_params": 110163840,
+        "embedding_params": 20807680,
+        "non_embedding_params": 89356160
+    },
+    "d640_l15": {
+        "d_model": 640,
+        "num_layers": 15,
+        "total_params": 115083520,
+        "embedding_params": 20807680,
+        "non_embedding_params": 94275840
+    },
+    "d640_l16": {
+        "d_model": 640,
+        "num_layers": 16,
+        "total_params": 120003200,
+        "embedding_params": 20807680,
+        "non_embedding_params": 99195520
+    },
+    "d640_l17": {
+        "d_model": 640,
+        "num_layers": 17,
+        "total_params": 124922880,
+        "embedding_params": 20807680,
+        "non_embedding_params": 104115200
+    },
+    "d640_l18": {
+        "d_model": 640,
+        "num_layers": 18,
+        "total_params": 129842560,
+        "embedding_params": 20807680,
+        "non_embedding_params": 109034880
+    },
+    "d640_l19": {
+        "d_model": 640,
+        "num_layers": 19,
+        "total_params": 134762240,
+        "embedding_params": 20807680,
+        "non_embedding_params": 113954560
+    },
+    "d640_l20": {
+        "d_model": 640,
+        "num_layers": 20,
+        "total_params": 139681920,
+        "embedding_params": 20807680,
+        "non_embedding_params": 118874240
+    },
+    "d640_l21": {
+        "d_model": 640,
+        "num_layers": 21,
+        "total_params": 144601600,
+        "embedding_params": 20807680,
+        "non_embedding_params": 123793920
+    },
+    "d640_l22": {
+        "d_model": 640,
+        "num_layers": 22,
+        "total_params": 149521280,
+        "embedding_params": 20807680,
+        "non_embedding_params": 128713600
+    },
+    "d640_l23": {
+        "d_model": 640,
+        "num_layers": 23,
+        "total_params": 154440960,
+        "embedding_params": 20807680,
+        "non_embedding_params": 133633280
+    },
+    "d640_l24": {
+        "d_model": 640,
+        "num_layers": 24,
+        "total_params": 159360640,
+        "embedding_params": 20807680,
+        "non_embedding_params": 138552960
+    },
+    "d704_l2": {
+        "d_model": 704,
+        "num_layers": 2,
+        "total_params": 57321792,
+        "embedding_params": 22888448,
+        "non_embedding_params": 34433344
+    },
+    "d704_l3": {
+        "d_model": 704,
+        "num_layers": 3,
+        "total_params": 63274112,
+        "embedding_params": 22888448,
+        "non_embedding_params": 40385664
+    },
+    "d704_l4": {
+        "d_model": 704,
+        "num_layers": 4,
+        "total_params": 69226432,
+        "embedding_params": 22888448,
+        "non_embedding_params": 46337984
+    },
+    "d704_l5": {
+        "d_model": 704,
+        "num_layers": 5,
+        "total_params": 75178752,
+        "embedding_params": 22888448,
+        "non_embedding_params": 52290304
+    },
+    "d704_l6": {
+        "d_model": 704,
+        "num_layers": 6,
+        "total_params": 81131072,
+        "embedding_params": 22888448,
+        "non_embedding_params": 58242624
+    },
+    "d704_l7": {
+        "d_model": 704,
+        "num_layers": 7,
+        "total_params": 87083392,
+        "embedding_params": 22888448,
+        "non_embedding_params": 64194944
+    },
+    "d704_l8": {
+        "d_model": 704,
+        "num_layers": 8,
+        "total_params": 93035712,
+        "embedding_params": 22888448,
+        "non_embedding_params": 70147264
+    },
+    "d704_l9": {
+        "d_model": 704,
+        "num_layers": 9,
+        "total_params": 98988032,
+        "embedding_params": 22888448,
+        "non_embedding_params": 76099584
+    },
+    "d704_l10": {
+        "d_model": 704,
+        "num_layers": 10,
+        "total_params": 104940352,
+        "embedding_params": 22888448,
+        "non_embedding_params": 82051904
+    },
+    "d704_l11": {
+        "d_model": 704,
+        "num_layers": 11,
+        "total_params": 110892672,
+        "embedding_params": 22888448,
+        "non_embedding_params": 88004224
+    },
+    "d704_l12": {
+        "d_model": 704,
+        "num_layers": 12,
+        "total_params": 116844992,
+        "embedding_params": 22888448,
+        "non_embedding_params": 93956544
+    },
+    "d704_l13": {
+        "d_model": 704,
+        "num_layers": 13,
+        "total_params": 122797312,
+        "embedding_params": 22888448,
+        "non_embedding_params": 99908864
+    },
+    "d704_l14": {
+        "d_model": 704,
+        "num_layers": 14,
+        "total_params": 128749632,
+        "embedding_params": 22888448,
+        "non_embedding_params": 105861184
+    },
+    "d704_l15": {
+        "d_model": 704,
+        "num_layers": 15,
+        "total_params": 134701952,
+        "embedding_params": 22888448,
+        "non_embedding_params": 111813504
+    },
+    "d704_l16": {
+        "d_model": 704,
+        "num_layers": 16,
+        "total_params": 140654272,
+        "embedding_params": 22888448,
+        "non_embedding_params": 117765824
+    },
+    "d704_l17": {
+        "d_model": 704,
+        "num_layers": 17,
+        "total_params": 146606592,
+        "embedding_params": 22888448,
+        "non_embedding_params": 123718144
+    },
+    "d704_l18": {
+        "d_model": 704,
+        "num_layers": 18,
+        "total_params": 152558912,
+        "embedding_params": 22888448,
+        "non_embedding_params": 129670464
+    },
+    "d704_l19": {
+        "d_model": 704,
+        "num_layers": 19,
+        "total_params": 158511232,
+        "embedding_params": 22888448,
+        "non_embedding_params": 135622784
+    },
+    "d704_l20": {
+        "d_model": 704,
+        "num_layers": 20,
+        "total_params": 164463552,
+        "embedding_params": 22888448,
+        "non_embedding_params": 141575104
+    },
+    "d704_l21": {
+        "d_model": 704,
+        "num_layers": 21,
+        "total_params": 170415872,
+        "embedding_params": 22888448,
+        "non_embedding_params": 147527424
+    },
+    "d704_l22": {
+        "d_model": 704,
+        "num_layers": 22,
+        "total_params": 176368192,
+        "embedding_params": 22888448,
+        "non_embedding_params": 153479744
+    },
+    "d704_l23": {
+        "d_model": 704,
+        "num_layers": 23,
+        "total_params": 182320512,
+        "embedding_params": 22888448,
+        "non_embedding_params": 159432064
+    },
+    "d704_l24": {
+        "d_model": 704,
+        "num_layers": 24,
+        "total_params": 188272832,
+        "embedding_params": 22888448,
+        "non_embedding_params": 165384384
+    },
+    "d768_l2": {
+        "d_model": 768,
+        "num_layers": 2,
+        "total_params": 63712512,
+        "embedding_params": 24969216,
+        "non_embedding_params": 38743296
+    },
+    "d768_l3": {
+        "d_model": 768,
+        "num_layers": 3,
+        "total_params": 70795776,
+        "embedding_params": 24969216,
+        "non_embedding_params": 45826560
+    },
+    "d768_l4": {
+        "d_model": 768,
+        "num_layers": 4,
+        "total_params": 77879040,
+        "embedding_params": 24969216,
+        "non_embedding_params": 52909824
+    },
+    "d768_l5": {
+        "d_model": 768,
+        "num_layers": 5,
+        "total_params": 84962304,
+        "embedding_params": 24969216,
+        "non_embedding_params": 59993088
+    },
+    "d768_l6": {
+        "d_model": 768,
+        "num_layers": 6,
+        "total_params": 92045568,
+        "embedding_params": 24969216,
+        "non_embedding_params": 67076352
+    },
+    "d768_l7": {
+        "d_model": 768,
+        "num_layers": 7,
+        "total_params": 99128832,
+        "embedding_params": 24969216,
+        "non_embedding_params": 74159616
+    },
+    "d768_l8": {
+        "d_model": 768,
+        "num_layers": 8,
+        "total_params": 106212096,
+        "embedding_params": 24969216,
+        "non_embedding_params": 81242880
+    },
+    "d768_l9": {
+        "d_model": 768,
+        "num_layers": 9,
+        "total_params": 113295360,
+        "embedding_params": 24969216,
+        "non_embedding_params": 88326144
+    },
+    "d768_l10": {
+        "d_model": 768,
+        "num_layers": 10,
+        "total_params": 120378624,
+        "embedding_params": 24969216,
+        "non_embedding_params": 95409408
+    },
+    "d768_l11": {
+        "d_model": 768,
+        "num_layers": 11,
+        "total_params": 127461888,
+        "embedding_params": 24969216,
+        "non_embedding_params": 102492672
+    },
+    "d768_l12": {
+        "d_model": 768,
+        "num_layers": 12,
+        "total_params": 134545152,
+        "embedding_params": 24969216,
+        "non_embedding_params": 109575936
+    },
+    "d768_l13": {
+        "d_model": 768,
+        "num_layers": 13,
+        "total_params": 141628416,
+        "embedding_params": 24969216,
+        "non_embedding_params": 116659200
+    },
+    "d768_l14": {
+        "d_model": 768,
+        "num_layers": 14,
+        "total_params": 148711680,
+        "embedding_params": 24969216,
+        "non_embedding_params": 123742464
+    },
+    "d768_l15": {
+        "d_model": 768,
+        "num_layers": 15,
+        "total_params": 155794944,
+        "embedding_params": 24969216,
+        "non_embedding_params": 130825728
+    },
+    "d768_l16": {
+        "d_model": 768,
+        "num_layers": 16,
+        "total_params": 162878208,
+        "embedding_params": 24969216,
+        "non_embedding_params": 137908992
+    },
+    "d768_l17": {
+        "d_model": 768,
+        "num_layers": 17,
+        "total_params": 169961472,
+        "embedding_params": 24969216,
+        "non_embedding_params": 144992256
+    },
+    "d768_l18": {
+        "d_model": 768,
+        "num_layers": 18,
+        "total_params": 177044736,
+        "embedding_params": 24969216,
+        "non_embedding_params": 152075520
+    },
+    "d768_l19": {
+        "d_model": 768,
+        "num_layers": 19,
+        "total_params": 184128000,
+        "embedding_params": 24969216,
+        "non_embedding_params": 159158784
+    },
+    "d768_l20": {
+        "d_model": 768,
+        "num_layers": 20,
+        "total_params": 191211264,
+        "embedding_params": 24969216,
+        "non_embedding_params": 166242048
+    },
+    "d768_l21": {
+        "d_model": 768,
+        "num_layers": 21,
+        "total_params": 198294528,
+        "embedding_params": 24969216,
+        "non_embedding_params": 173325312
+    },
+    "d768_l22": {
+        "d_model": 768,
+        "num_layers": 22,
+        "total_params": 205377792,
+        "embedding_params": 24969216,
+        "non_embedding_params": 180408576
+    },
+    "d768_l23": {
+        "d_model": 768,
+        "num_layers": 23,
+        "total_params": 212461056,
+        "embedding_params": 24969216,
+        "non_embedding_params": 187491840
+    },
+    "d768_l24": {
+        "d_model": 768,
+        "num_layers": 24,
+        "total_params": 219544320,
+        "embedding_params": 24969216,
+        "non_embedding_params": 194575104
+    },
+    "d832_l2": {
+        "d_model": 832,
+        "num_layers": 2,
+        "total_params": 70299840,
+        "embedding_params": 27049984,
+        "non_embedding_params": 43249856
+    },
+    "d832_l3": {
+        "d_model": 832,
+        "num_layers": 3,
+        "total_params": 78612352,
+        "embedding_params": 27049984,
+        "non_embedding_params": 51562368
+    },
+    "d832_l4": {
+        "d_model": 832,
+        "num_layers": 4,
+        "total_params": 86924864,
+        "embedding_params": 27049984,
+        "non_embedding_params": 59874880
+    },
+    "d832_l5": {
+        "d_model": 832,
+        "num_layers": 5,
+        "total_params": 95237376,
+        "embedding_params": 27049984,
+        "non_embedding_params": 68187392
+    },
+    "d832_l6": {
+        "d_model": 832,
+        "num_layers": 6,
+        "total_params": 103549888,
+        "embedding_params": 27049984,
+        "non_embedding_params": 76499904
+    },
+    "d832_l7": {
+        "d_model": 832,
+        "num_layers": 7,
+        "total_params": 111862400,
+        "embedding_params": 27049984,
+        "non_embedding_params": 84812416
+    },
+    "d832_l8": {
+        "d_model": 832,
+        "num_layers": 8,
+        "total_params": 120174912,
+        "embedding_params": 27049984,
+        "non_embedding_params": 93124928
+    },
+    "d832_l9": {
+        "d_model": 832,
+        "num_layers": 9,
+        "total_params": 128487424,
+        "embedding_params": 27049984,
+        "non_embedding_params": 101437440
+    },
+    "d832_l10": {
+        "d_model": 832,
+        "num_layers": 10,
+        "total_params": 136799936,
+        "embedding_params": 27049984,
+        "non_embedding_params": 109749952
+    },
+    "d832_l11": {
+        "d_model": 832,
+        "num_layers": 11,
+        "total_params": 145112448,
+        "embedding_params": 27049984,
+        "non_embedding_params": 118062464
+    },
+    "d832_l12": {
+        "d_model": 832,
+        "num_layers": 12,
+        "total_params": 153424960,
+        "embedding_params": 27049984,
+        "non_embedding_params": 126374976
+    },
+    "d832_l13": {
+        "d_model": 832,
+        "num_layers": 13,
+        "total_params": 161737472,
+        "embedding_params": 27049984,
+        "non_embedding_params": 134687488
+    },
+    "d832_l14": {
+        "d_model": 832,
+        "num_layers": 14,
+        "total_params": 170049984,
+        "embedding_params": 27049984,
+        "non_embedding_params": 143000000
+    },
+    "d832_l15": {
+        "d_model": 832,
+        "num_layers": 15,
+        "total_params": 178362496,
+        "embedding_params": 27049984,
+        "non_embedding_params": 151312512
+    },
+    "d832_l16": {
+        "d_model": 832,
+        "num_layers": 16,
+        "total_params": 186675008,
+        "embedding_params": 27049984,
+        "non_embedding_params": 159625024
+    },
+    "d832_l17": {
+        "d_model": 832,
+        "num_layers": 17,
+        "total_params": 194987520,
+        "embedding_params": 27049984,
+        "non_embedding_params": 167937536
+    },
+    "d832_l18": {
+        "d_model": 832,
+        "num_layers": 18,
+        "total_params": 203300032,
+        "embedding_params": 27049984,
+        "non_embedding_params": 176250048
+    },
+    "d832_l19": {
+        "d_model": 832,
+        "num_layers": 19,
+        "total_params": 211612544,
+        "embedding_params": 27049984,
+        "non_embedding_params": 184562560
+    },
+    "d832_l20": {
+        "d_model": 832,
+        "num_layers": 20,
+        "total_params": 219925056,
+        "embedding_params": 27049984,
+        "non_embedding_params": 192875072
+    },
+    "d832_l21": {
+        "d_model": 832,
+        "num_layers": 21,
+        "total_params": 228237568,
+        "embedding_params": 27049984,
+        "non_embedding_params": 201187584
+    },
+    "d832_l22": {
+        "d_model": 832,
+        "num_layers": 22,
+        "total_params": 236550080,
+        "embedding_params": 27049984,
+        "non_embedding_params": 209500096
+    },
+    "d832_l23": {
+        "d_model": 832,
+        "num_layers": 23,
+        "total_params": 244862592,
+        "embedding_params": 27049984,
+        "non_embedding_params": 217812608
+    },
+    "d832_l24": {
+        "d_model": 832,
+        "num_layers": 24,
+        "total_params": 253175104,
+        "embedding_params": 27049984,
+        "non_embedding_params": 226125120
+    },
+    "d896_l2": {
+        "d_model": 896,
+        "num_layers": 2,
+        "total_params": 77083776,
+        "embedding_params": 29130752,
+        "non_embedding_params": 47953024
+    },
+    "d896_l3": {
+        "d_model": 896,
+        "num_layers": 3,
+        "total_params": 86723840,
+        "embedding_params": 29130752,
+        "non_embedding_params": 57593088
+    },
+    "d896_l4": {
+        "d_model": 896,
+        "num_layers": 4,
+        "total_params": 96363904,
+        "embedding_params": 29130752,
+        "non_embedding_params": 67233152
+    },
+    "d896_l5": {
+        "d_model": 896,
+        "num_layers": 5,
+        "total_params": 106003968,
+        "embedding_params": 29130752,
+        "non_embedding_params": 76873216
+    },
+    "d896_l6": {
+        "d_model": 896,
+        "num_layers": 6,
+        "total_params": 115644032,
+        "embedding_params": 29130752,
+        "non_embedding_params": 86513280
+    },
+    "d896_l7": {
+        "d_model": 896,
+        "num_layers": 7,
+        "total_params": 125284096,
+        "embedding_params": 29130752,
+        "non_embedding_params": 96153344
+    },
+    "d896_l8": {
+        "d_model": 896,
+        "num_layers": 8,
+        "total_params": 134924160,
+        "embedding_params": 29130752,
+        "non_embedding_params": 105793408
+    },
+    "d896_l9": {
+        "d_model": 896,
+        "num_layers": 9,
+        "total_params": 144564224,
+        "embedding_params": 29130752,
+        "non_embedding_params": 115433472
+    },
+    "d896_l10": {
+        "d_model": 896,
+        "num_layers": 10,
+        "total_params": 154204288,
+        "embedding_params": 29130752,
+        "non_embedding_params": 125073536
+    },
+    "d896_l11": {
+        "d_model": 896,
+        "num_layers": 11,
+        "total_params": 163844352,
+        "embedding_params": 29130752,
+        "non_embedding_params": 134713600
+    },
+    "d896_l12": {
+        "d_model": 896,
+        "num_layers": 12,
+        "total_params": 173484416,
+        "embedding_params": 29130752,
+        "non_embedding_params": 144353664
+    },
+    "d896_l13": {
+        "d_model": 896,
+        "num_layers": 13,
+        "total_params": 183124480,
+        "embedding_params": 29130752,
+        "non_embedding_params": 153993728
+    },
+    "d896_l14": {
+        "d_model": 896,
+        "num_layers": 14,
+        "total_params": 192764544,
+        "embedding_params": 29130752,
+        "non_embedding_params": 163633792
+    },
+    "d896_l15": {
+        "d_model": 896,
+        "num_layers": 15,
+        "total_params": 202404608,
+        "embedding_params": 29130752,
+        "non_embedding_params": 173273856
+    },
+    "d896_l16": {
+        "d_model": 896,
+        "num_layers": 16,
+        "total_params": 212044672,
+        "embedding_params": 29130752,
+        "non_embedding_params": 182913920
+    },
+    "d896_l17": {
+        "d_model": 896,
+        "num_layers": 17,
+        "total_params": 221684736,
+        "embedding_params": 29130752,
+        "non_embedding_params": 192553984
+    },
+    "d896_l18": {
+        "d_model": 896,
+        "num_layers": 18,
+        "total_params": 231324800,
+        "embedding_params": 29130752,
+        "non_embedding_params": 202194048
+    },
+    "d896_l19": {
+        "d_model": 896,
+        "num_layers": 19,
+        "total_params": 240964864,
+        "embedding_params": 29130752,
+        "non_embedding_params": 211834112
+    },
+    "d896_l20": {
+        "d_model": 896,
+        "num_layers": 20,
+        "total_params": 250604928,
+        "embedding_params": 29130752,
+        "non_embedding_params": 221474176
+    },
+    "d896_l21": {
+        "d_model": 896,
+        "num_layers": 21,
+        "total_params": 260244992,
+        "embedding_params": 29130752,
+        "non_embedding_params": 231114240
+    },
+    "d896_l22": {
+        "d_model": 896,
+        "num_layers": 22,
+        "total_params": 269885056,
+        "embedding_params": 29130752,
+        "non_embedding_params": 240754304
+    },
+    "d896_l23": {
+        "d_model": 896,
+        "num_layers": 23,
+        "total_params": 279525120,
+        "embedding_params": 29130752,
+        "non_embedding_params": 250394368
+    },
+    "d896_l24": {
+        "d_model": 896,
+        "num_layers": 24,
+        "total_params": 289165184,
+        "embedding_params": 29130752,
+        "non_embedding_params": 260034432
+    },
+    "d960_l2": {
+        "d_model": 960,
+        "num_layers": 2,
+        "total_params": 84064320,
+        "embedding_params": 31211520,
+        "non_embedding_params": 52852800
+    },
+    "d960_l3": {
+        "d_model": 960,
+        "num_layers": 3,
+        "total_params": 95130240,
+        "embedding_params": 31211520,
+        "non_embedding_params": 63918720
+    },
+    "d960_l4": {
+        "d_model": 960,
+        "num_layers": 4,
+        "total_params": 106196160,
+        "embedding_params": 31211520,
+        "non_embedding_params": 74984640
+    },
+    "d960_l5": {
+        "d_model": 960,
+        "num_layers": 5,
+        "total_params": 117262080,
+        "embedding_params": 31211520,
+        "non_embedding_params": 86050560
+    },
+    "d960_l6": {
+        "d_model": 960,
+        "num_layers": 6,
+        "total_params": 128328000,
+        "embedding_params": 31211520,
+        "non_embedding_params": 97116480
+    },
+    "d960_l7": {
+        "d_model": 960,
+        "num_layers": 7,
+        "total_params": 139393920,
+        "embedding_params": 31211520,
+        "non_embedding_params": 108182400
+    },
+    "d960_l8": {
+        "d_model": 960,
+        "num_layers": 8,
+        "total_params": 150459840,
+        "embedding_params": 31211520,
+        "non_embedding_params": 119248320
+    },
+    "d960_l9": {
+        "d_model": 960,
+        "num_layers": 9,
+        "total_params": 161525760,
+        "embedding_params": 31211520,
+        "non_embedding_params": 130314240
+    },
+    "d960_l10": {
+        "d_model": 960,
+        "num_layers": 10,
+        "total_params": 172591680,
+        "embedding_params": 31211520,
+        "non_embedding_params": 141380160
+    },
+    "d960_l11": {
+        "d_model": 960,
+        "num_layers": 11,
+        "total_params": 183657600,
+        "embedding_params": 31211520,
+        "non_embedding_params": 152446080
+    },
+    "d960_l12": {
+        "d_model": 960,
+        "num_layers": 12,
+        "total_params": 194723520,
+        "embedding_params": 31211520,
+        "non_embedding_params": 163512000
+    },
+    "d960_l13": {
+        "d_model": 960,
+        "num_layers": 13,
+        "total_params": 205789440,
+        "embedding_params": 31211520,
+        "non_embedding_params": 174577920
+    },
+    "d960_l14": {
+        "d_model": 960,
+        "num_layers": 14,
+        "total_params": 216855360,
+        "embedding_params": 31211520,
+        "non_embedding_params": 185643840
+    },
+    "d960_l15": {
+        "d_model": 960,
+        "num_layers": 15,
+        "total_params": 227921280,
+        "embedding_params": 31211520,
+        "non_embedding_params": 196709760
+    },
+    "d960_l16": {
+        "d_model": 960,
+        "num_layers": 16,
+        "total_params": 238987200,
+        "embedding_params": 31211520,
+        "non_embedding_params": 207775680
+    },
+    "d960_l17": {
+        "d_model": 960,
+        "num_layers": 17,
+        "total_params": 250053120,
+        "embedding_params": 31211520,
+        "non_embedding_params": 218841600
+    },
+    "d960_l18": {
+        "d_model": 960,
+        "num_layers": 18,
+        "total_params": 261119040,
+        "embedding_params": 31211520,
+        "non_embedding_params": 229907520
+    },
+    "d960_l19": {
+        "d_model": 960,
+        "num_layers": 19,
+        "total_params": 272184960,
+        "embedding_params": 31211520,
+        "non_embedding_params": 240973440
+    },
+    "d960_l20": {
+        "d_model": 960,
+        "num_layers": 20,
+        "total_params": 283250880,
+        "embedding_params": 31211520,
+        "non_embedding_params": 252039360
+    },
+    "d960_l21": {
+        "d_model": 960,
+        "num_layers": 21,
+        "total_params": 294316800,
+        "embedding_params": 31211520,
+        "non_embedding_params": 263105280
+    },
+    "d960_l22": {
+        "d_model": 960,
+        "num_layers": 22,
+        "total_params": 305382720,
+        "embedding_params": 31211520,
+        "non_embedding_params": 274171200
+    },
+    "d960_l23": {
+        "d_model": 960,
+        "num_layers": 23,
+        "total_params": 316448640,
+        "embedding_params": 31211520,
+        "non_embedding_params": 285237120
+    },
+    "d960_l24": {
+        "d_model": 960,
+        "num_layers": 24,
+        "total_params": 327514560,
+        "embedding_params": 31211520,
+        "non_embedding_params": 296303040
+    },
+    "d1024_l2": {
+        "d_model": 1024,
+        "num_layers": 2,
+        "total_params": 91241472,
+        "embedding_params": 33292288,
+        "non_embedding_params": 57949184
+    },
+    "d1024_l3": {
+        "d_model": 1024,
+        "num_layers": 3,
+        "total_params": 103831552,
+        "embedding_params": 33292288,
+        "non_embedding_params": 70539264
+    },
+    "d1024_l4": {
+        "d_model": 1024,
+        "num_layers": 4,
+        "total_params": 116421632,
+        "embedding_params": 33292288,
+        "non_embedding_params": 83129344
+    },
+    "d1024_l5": {
+        "d_model": 1024,
+        "num_layers": 5,
+        "total_params": 129011712,
+        "embedding_params": 33292288,
+        "non_embedding_params": 95719424
+    },
+    "d1024_l6": {
+        "d_model": 1024,
+        "num_layers": 6,
+        "total_params": 141601792,
+        "embedding_params": 33292288,
+        "non_embedding_params": 108309504
+    },
+    "d1024_l7": {
+        "d_model": 1024,
+        "num_layers": 7,
+        "total_params": 154191872,
+        "embedding_params": 33292288,
+        "non_embedding_params": 120899584
+    },
+    "d1024_l8": {
+        "d_model": 1024,
+        "num_layers": 8,
+        "total_params": 166781952,
+        "embedding_params": 33292288,
+        "non_embedding_params": 133489664
+    },
+    "d1024_l9": {
+        "d_model": 1024,
+        "num_layers": 9,
+        "total_params": 179372032,
+        "embedding_params": 33292288,
+        "non_embedding_params": 146079744
+    },
+    "d1024_l10": {
+        "d_model": 1024,
+        "num_layers": 10,
+        "total_params": 191962112,
+        "embedding_params": 33292288,
+        "non_embedding_params": 158669824
+    },
+    "d1024_l11": {
+        "d_model": 1024,
+        "num_layers": 11,
+        "total_params": 204552192,
+        "embedding_params": 33292288,
+        "non_embedding_params": 171259904
+    },
+    "d1024_l12": {
+        "d_model": 1024,
+        "num_layers": 12,
+        "total_params": 217142272,
+        "embedding_params": 33292288,
+        "non_embedding_params": 183849984
+    },
+    "d1024_l13": {
+        "d_model": 1024,
+        "num_layers": 13,
+        "total_params": 229732352,
+        "embedding_params": 33292288,
+        "non_embedding_params": 196440064
+    },
+    "d1024_l14": {
+        "d_model": 1024,
+        "num_layers": 14,
+        "total_params": 242322432,
+        "embedding_params": 33292288,
+        "non_embedding_params": 209030144
+    },
+    "d1024_l15": {
+        "d_model": 1024,
+        "num_layers": 15,
+        "total_params": 254912512,
+        "embedding_params": 33292288,
+        "non_embedding_params": 221620224
+    },
+    "d1024_l16": {
+        "d_model": 1024,
+        "num_layers": 16,
+        "total_params": 267502592,
+        "embedding_params": 33292288,
+        "non_embedding_params": 234210304
+    },
+    "d1024_l17": {
+        "d_model": 1024,
+        "num_layers": 17,
+        "total_params": 280092672,
+        "embedding_params": 33292288,
+        "non_embedding_params": 246800384
+    },
+    "d1024_l18": {
+        "d_model": 1024,
+        "num_layers": 18,
+        "total_params": 292682752,
+        "embedding_params": 33292288,
+        "non_embedding_params": 259390464
+    },
+    "d1024_l19": {
+        "d_model": 1024,
+        "num_layers": 19,
+        "total_params": 305272832,
+        "embedding_params": 33292288,
+        "non_embedding_params": 271980544
+    },
+    "d1024_l20": {
+        "d_model": 1024,
+        "num_layers": 20,
+        "total_params": 317862912,
+        "embedding_params": 33292288,
+        "non_embedding_params": 284570624
+    },
+    "d1024_l21": {
+        "d_model": 1024,
+        "num_layers": 21,
+        "total_params": 330452992,
+        "embedding_params": 33292288,
+        "non_embedding_params": 297160704
+    },
+    "d1024_l22": {
+        "d_model": 1024,
+        "num_layers": 22,
+        "total_params": 343043072,
+        "embedding_params": 33292288,
+        "non_embedding_params": 309750784
+    },
+    "d1024_l23": {
+        "d_model": 1024,
+        "num_layers": 23,
+        "total_params": 355633152,
+        "embedding_params": 33292288,
+        "non_embedding_params": 322340864
+    },
+    "d1024_l24": {
+        "d_model": 1024,
+        "num_layers": 24,
+        "total_params": 368223232,
+        "embedding_params": 33292288,
+        "non_embedding_params": 334930944
+    }
+}

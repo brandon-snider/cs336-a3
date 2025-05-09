@@ -19,12 +19,13 @@ The script also plots the empirical data, the fitted power law, and the extrapol
 
 import json
 import numpy as np
-from scipy.optimize import curve_fit
 import matplotlib.pyplot as plt
+from scipy.optimize import curve_fit
 from collections import defaultdict
 import os
 import logging
 import sys
+from cs336_scaling.common import power_law
 
 
 def load_and_process_data(filepath: str) -> tuple[list[float], dict[float, int]]:
@@ -77,18 +78,14 @@ def print_results(c_to_n_opt: dict[float, int]):
     logging.info("\n")
 
 
-def power_law(x: np.ndarray, a: float, b: float) -> np.ndarray:
-    """Power law function: y = a * x^b."""
-    return a * np.power(x, b)
-
-
-def fit_power_law(
-    budgets: list[float], c_to_n_opt: dict[float, int]
-) -> tuple[float, float]:
+def fit_power_law(c_to_n_opt: dict[float, int]) -> tuple[float, float]:
     """Fits a power law N = a * C^b to the optimal parameter data."""
+    budgets = sorted(list(c_to_n_opt.keys()))
     x = np.array(budgets)
     y = np.array([c_to_n_opt[b] for b in budgets])
-    popt, _ = curve_fit(power_law, x, y)
+    popt, _ = curve_fit(
+        power_law, x, y, p0=(25, 0.5)
+    )  # Set initial guess for exponent = 0.5 based on Hoffman et. al
     return tuple(popt)
 
 
@@ -240,13 +237,31 @@ def plot_data_vs_compute(
     plt.close()
 
 
+def fit_hoffman_data():
+    flops_to_params = {
+        1.92e19: 400_000_000,
+        1.21e20: 1_000_000_000,
+        1.23e22: 10_000_000_000,
+        5.76e23: 67_000_000_000,
+        3.85e24: 175_000_000_000,
+        9.90e24: 280_000_000_000,
+        3.43e25: 520_000_000_000,
+        1.27e26: 1_000_000_000_000,
+        1.30e28: 10_000_000_000_000,
+    }
+
+    popt = fit_power_law(flops_to_params)
+    a, b = popt
+    print(f"Fitted power law: N = {a:.6e} * C^{b:.6f}\n")
+
+
 def main():
     """Main execution function."""
     data_filepath = "data/isoflops_curves.json"
     out_dir = "out/chinchilla"
-    params_plot_path = os.path.join(out_dir, "params.png")
-    data_plot_path = os.path.join(out_dir, "data.png")
-    log_file_path = os.path.join(out_dir, "log.txt")
+    params_plot_path = os.path.join(out_dir, "params-current.png")
+    data_plot_path = os.path.join(out_dir, "data-current.png")
+    log_file_path = os.path.join(out_dir, "log-current.txt")
 
     os.makedirs(out_dir, exist_ok=True)
 
@@ -270,9 +285,9 @@ def main():
     logging.info("--- Empirical Data ---")
     print_results(c_to_n_opt)
 
-    popt = fit_power_law(budgets, c_to_n_opt)
+    popt = fit_power_law(c_to_n_opt)
     a, b = popt
-    logging.info(f"Fitted power law: N = {a:.2e} * C^{b:.2f}\n")
+    logging.info(f"Fitted power law: N = {a:.6e} * C^{b:.6f}\n")
 
     # Extrapolate, starting just above last empirical budget
     extrapolation_start_compute = sorted(budgets)[-1] * (1 + 1e-10)
@@ -297,3 +312,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # fit_hoffman_data()
